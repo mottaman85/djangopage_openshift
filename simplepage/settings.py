@@ -25,7 +25,8 @@ SECRET_KEY = 'dibgd4&x(!0v#to=qgc*+@tn2l(!0dk1w6y(hdm$f(m7ihe5(%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://pageonpython-webpage.44fs.preview.openshiftapps.com/']
+ALLOWED_HOSTS = [
+]
 
 
 # Application definition
